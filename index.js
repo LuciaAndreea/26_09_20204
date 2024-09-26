@@ -55,3 +55,21 @@ console.log("lowerCase: ",lower);
 
 let substringOfBase = baseString.substring(0, 2);
 console.log("substringOfBase: ",substringOfBase);
+
+//boolean
+let isAuthenticated = true;
+let iAuthorized = false;
+console.log("autentificat: ",isAuthenticated);
+console.log("autorizat: ",iAuthorized);
+
+//operatori de atribuire
+let x = 12; //declarare si atribuire valoare 12
+console.log("x: ",x);
+x+=1; // atribuire plus adunare
+console.log("x: ",x);
+x-=2;
+console.log("x: ",x);
+x*=2;
+console.log("x: ",x);
+x/=2;
+console.log("x: ",x);
